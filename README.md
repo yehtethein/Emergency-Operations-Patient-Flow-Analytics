@@ -12,7 +12,7 @@ Emergency Operations & Patient Flow Analytics is an interactive healthcare dashb
 - ZoomCharts visualizations
 
 ## Dashboard Preview
-[View Dashboard overview] (202606 Emergency Operations & Patient Flow Analytics.pdf)
+[View Dashboard overview] (Emergency-Operations-Patient-Flow-Analytics/202606 Emergency Operations & Patient Flow Analytics.pdf)
 
 ## Technologies Used
 - Power BI
