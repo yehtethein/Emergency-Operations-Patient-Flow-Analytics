@@ -27,5 +27,4 @@ Emergency Operations & Patient Flow Analytics is an interactive healthcare dashb
 - Revenue & Profit Margin
 
 ## Author
-Ye Htet Hein
-Data Enthusiast
+Ye Htet Hein | Data Enthusiast
